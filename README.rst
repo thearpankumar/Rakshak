@@ -37,3 +37,4 @@ To build the project for the Arduino Uno R4 Minima board, use the following comm
 
 ```bash
 west build -p always -b arduino_uno_r4_minima ../rakshak
+```
